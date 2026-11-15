@@ -15,6 +15,7 @@ Websites that look cool, have cool features or just inspire me for some other re
 
 ## Cool Functionality / Interactivity
 
+[No Stairs Please](https://nostairsplease.com/)  
 [Whimsy](https://whimsy.space/)  
 [Nuuneoi](https://nuuneoi.com/profile)  
 [Kallaway]()http://ka11away.com/
